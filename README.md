@@ -7,11 +7,11 @@
 </h1>
 
 <h3 align="center">
-  AI Engineer • MERN Stack Developer • Cyberpunk Builder
+  AI Engineer • WEB Developer • ML Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Cyberpunk+Developer;Building+Future+Systems;MERN+Stack+Developer;RAG+%7C+LangChain+%7C+GenAI;Nissan+GTR+R34+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Building+Future+Systems;Web+Developer;RAG+%7C+LangChain+%7C+GenAI;Car+Enthusiast" />
 </p>
 
 ---
@@ -39,9 +39,9 @@ class SameerRanjan:
             "Artificial Intelligence",
             "Generative AI",
             "Advanced RAG Systems",
-            "Cyberpunk UI",
+            "Games",
             "Anime",
-            "Nissan GTR R34"
+            "Cars"
         ]
 
     def current_focus(self):
@@ -60,11 +60,11 @@ class SameerRanjan:
 
 # 🌃 INTERESTS
 
-- 🚗 Nissan GTR R34
-- 🎌 Cyberpunk Edgerunners
+- 🚗 Super cars & Sports cars
+- 🎌 Games
 - 🌌 Synthwave & Night Drives
-- 🤖 Futuristic AI Systems
-- ⚡ Cyberpunk UI/UX
+- 🤖 AI Systems
+- ⚡ Vibecoding
 - 🎧 Coding with Lo-fi Music
 
 ---
@@ -157,7 +157,7 @@ OCR-Based Smart Academic Search Engine
 <tr>
 <td width="50%">
 
-## 🔹 MedAnalyzer
+## 🔹 MedAssit
 
 AI-Powered Medical Report Analysis Platform
 
@@ -238,7 +238,7 @@ Smart Agriculture Assistance Platform
 ---
 
 <h2 align="center">
-⚡ “Wake up, Samurai. We have systems to build.” ⚡
+⚡ “Stay consistent. Stay hungry. Stay futuristic.” ⚡
 </h2>
 
 <p align="center">
