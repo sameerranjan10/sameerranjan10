@@ -18,10 +18,6 @@
 
 <br/><br/>
 
-[
-[
-[
-
 </div>
 
 ***
@@ -178,12 +174,7 @@ class SameerRanjan:
 ## 🚗 Night Drive Vibes
 
 <p align="center">
-  <img src="https://media.tenor.com/0mYt5LFcC8EAAAAd/night-drive-car.gif" width="100%" alt="Night Drive" style="border-radius: 12px;" />
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/N5ioMbDPCo4AAAAd/car-racing.gif" width="49%" alt="Racing Car 1" />
-  <img src="https://media.tenor.com/hBsEXCgxCfUAAAAd/car-neon.gif" width="49%" alt="Racing Car 2" />
+  <img src="https://raw.githubusercontent.com/saadeghi/files/main/gif/r34.gif" width="100%" />
 </p>
 
 ***
