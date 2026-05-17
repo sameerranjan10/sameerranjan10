@@ -148,15 +148,6 @@ class SameerRanjan:
 
 ***
 
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sameerranjan10&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</p>
-
-***
-
 <!-- SNAKE -->
 ## 🐍 Contribution Snake
 
@@ -174,9 +165,8 @@ class SameerRanjan:
 ## 🚗 Night Drive Vibes
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/gif/r34.gif" width="100%" />
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
 </p>
-
 ***
 
 <!-- FOOTER QUOTE -->
