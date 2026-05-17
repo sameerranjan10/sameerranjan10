@@ -135,9 +135,9 @@ class SameerRanjan:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sameerranjan10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=7a5cff" />
-
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerranjan10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sameerranjan10&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sameerranjan10&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
