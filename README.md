@@ -1,61 +1,82 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/6e/17/73/6e1773b8f3f63d76c8b6b5480bec219d.gif" width="100%" />
+</p>
+
 <h1 align="center">
-  Hey 👋 I'm Sameer Ranjan Nayak
+  ⚡ SAMEER RANJAN NAYAK ⚡
 </h1>
 
 <h3 align="center">
-  AI Engineer • Full Stack Developer • Building Intelligent Systems
+  AI Engineer • MERN Stack Developer • Cyberpunk Builder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Developer;MERN+Stack+Developer;Generative+AI+Enthusiast;Building+RAG+Applications;Open+Source+Contributor;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Cyberpunk+Developer;Building+Future+Systems;MERN+Stack+Developer;RAG+%7C+LangChain+%7C+GenAI;Nissan+GTR+R34+Enthusiast" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/sameerranjan10">
-    <img src="https://img.shields.io/github/followers/sameerranjan10?label=Followers&style=for-the-badge&color=blue" />
-  </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=sameerranjan10&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/sameerranjan10?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=sameerranjan10&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/sameerranjan10?style=for-the-badge&color=00F7FF" />
 </p>
 
 ---
 
-<img align="right" alt="AI Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Cyberpunk" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAd/cyberpunk-edgerunners.gif">
 
-# 💫 About Me
+# 🌌 ABOUT ME
 
-🎓 Computer Science Engineering Student at **GIET University**
+```python
+class SameerRanjan:
 
-💻 Passionate about:
-- Artificial Intelligence
-- Full Stack Development
-- Generative AI
-- Machine Learning
-- Advanced RAG Systems
+    def __init__(self):
+        self.role = "AI Engineer & Full Stack Developer"
+        self.university = "GIET University"
+        
+        self.interests = [
+            "Artificial Intelligence",
+            "Generative AI",
+            "Advanced RAG Systems",
+            "Cyberpunk UI",
+            "Anime",
+            "Nissan GTR R34"
+        ]
 
-🚀 I build intelligent applications combining:
-- AI + Web Development
-- LLMs + Real-world Products
-- Scalable Backend Architectures
+    def current_focus(self):
+        return [
+            "LangGraph",
+            "Multi-Agent AI",
+            "Production-grade GenAI Apps",
+            "Scalable AI Systems"
+        ]
 
-⚡ Currently exploring:
-- LangGraph
-- Multi-Agent AI Systems
-- AI Automation
-- Production-grade GenAI Apps
+    def life_philosophy(self):
+        return "The future is something we create ourselves."
+```
 
 ---
 
-# 🌐 Portfolio & Socials
+# 🌃 INTERESTS
 
-<p align="left">
+- 🚗 Nissan GTR R34
+- 🎌 Cyberpunk Edgerunners
+- 🌌 Synthwave & Night Drives
+- 🤖 Futuristic AI Systems
+- ⚡ Cyberpunk UI/UX
+- 🎧 Coding with Lo-fi Music
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<p align="center">
 <a href="https://sameerranjan-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/sameer-ranjan-nayak-963657328/" target="_blank">
+<a href="https://www.linkedin.com/in/sameer-ranjan-nayak-963657328/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -66,21 +87,28 @@
 
 ---
 
-# 💻 Tech Stack
+# ⚡ TECH STACK
 
-### 🚀 Languages
+## 🚀 Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,sql"/>
 </p>
 
-### 🌐 Web Development
+---
+
+## 🌐 Web Development
+
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,html,css,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,html,css,mongodb,mysql,firebase"/>
 </p>
 
-### 🤖 AI / ML / GenAI
+---
+
+## 🤖 AI / ML / GenAI
+
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
 <p>
@@ -93,52 +121,73 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
 
 ## 🔹 Back2Roots
+
 AI-Driven Alumni Management & Recommendation System
 
-### Features:
-- AI-based alumni recommendations
-- Student-Alumni networking
+### Features
+- AI recommendations
 - Predictive analytics
-- Intelligent assistant integration
+- Alumni networking
+- Intelligent assistant
 
----
+</td>
+
+<td width="50%">
 
 ## 🔹 GIETNexus
+
 OCR-Based Smart Academic Search Engine
 
-### Features:
+### Features
 - OCR document scanning
 - Semantic search
-- Fast retrieval system
-- Academic resource management
+- Fast retrieval
+- Smart indexing
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ## 🔹 MedAnalyzer
+
 AI-Powered Medical Report Analysis Platform
 
-### Features:
-- Medical data extraction
-- AI-assisted analysis
-- Report summarization
+### Features
+- Medical report analysis
+- AI summarization
+- Smart extraction
 - Intelligent insights
 
----
+</td>
+
+<td width="50%">
 
 ## 🔹 AgroConnect
+
 Smart Agriculture Assistance Platform
 
-### Features:
-- AI-powered farming assistance
+### Features
+- AI farming assistance
 - Smart recommendations
 - Agricultural analytics
+- Modern dashboards
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameerranjan10&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -148,7 +197,7 @@ Smart Agriculture Assistance Platform
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GITHUB STREAK
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=sameerranjan10&theme=tokyonight&hide_border=true"/>
@@ -156,7 +205,7 @@ Smart Agriculture Assistance Platform
 
 ---
 
-# 📈 Contribution Graph
+# 📈 CONTRIBUTION GRAPH
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameerranjan10&theme=tokyo-night"/>
@@ -164,7 +213,7 @@ Smart Agriculture Assistance Platform
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GITHUB TROPHIES
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sameerranjan10&theme=tokyonight&no-frame=true&row=1&column=7"/>
@@ -172,27 +221,7 @@ Smart Agriculture Assistance Platform
 
 ---
 
-# ⚡ Current Focus
-
-```python
-class SameerRanjan:
-    
-    def __init__(self):
-        self.role = "AI Engineer & Full Stack Developer"
-        self.learning = [
-            "Generative AI",
-            "Advanced RAG",
-            "LangGraph",
-            "Multi-Agent Systems"
-        ]
-        
-    def build(self):
-        return "Real-world AI products 🚀"
-```
-
----
-
-# 🐍 Contribution Snake Animation
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sameerranjan10/sameerranjan10/output/snake.svg" alt="snake animation"/>
@@ -200,6 +229,18 @@ class SameerRanjan:
 
 ---
 
-<h3 align="center">
-⚡ Building scalable AI-powered applications for the future ⚡
-</h3>
+# 🌃 CYBERPUNK VIBES
+
+<p align="center">
+  <img src="https://media.tenor.com/0mYt5LFcC8EAAAAd/night-drive-car.gif" width="900"/>
+</p>
+
+---
+
+<h2 align="center">
+⚡ “Wake up, Samurai. We have systems to build.” ⚡
+</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+</p>
