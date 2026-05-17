@@ -126,7 +126,7 @@ class Sameer:
 ## 🌃 Night Drive
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/x8v1oNUOmg4AAAAd/r34-skyline.gif" width="900"/>
+  <img src="https://media1.tenor.com/m/fK4kJ0zQZ1AAAAAd/nissan-gtr.gif" width="900"/>
 </p>
 ---
 
