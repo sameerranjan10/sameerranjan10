@@ -74,11 +74,11 @@ class Sameer:
 
 ## 🌃 Interests
 
-- 🚗 Nissan GTR R34 & Supercars
-- 🎌 Cyberpunk & Anime
+- 🚗 Sportscars & Supercars
+- 🎌 Games & Anime
 - 🌌 Synthwave & Night Drives
 - 🤖 Futuristic AI Systems
-- 🎧 Coding with Lo-fi Music
+- 🎧 Vibe Coding
 
 ---
 
@@ -121,12 +121,13 @@ class Sameer:
 </p>
 ---
 
+---
+
 ## 🌃 Night Drive
 
 <p align="center">
-  <img src="https://media.tenor.com/0mYt5LFcC8EAAAAd/night-drive-car.gif" width="900"/>
+  <img src="https://media1.tenor.com/m/x8v1oNUOmg4AAAAd/r34-skyline.gif" width="900"/>
 </p>
-
 ---
 
 <h3 align="center">
