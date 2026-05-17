@@ -165,7 +165,7 @@ class SameerRanjan:
 ## 🚗 Night Drive Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNyaTd5Z3o1b3Y5MjhuNjd1dG02NGp3dzM4cHMxODZ1NjAycThrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CEXWPaTHIB9BQYYd30/giphy.gif" width="100%" />
 </p>
 ***
 
