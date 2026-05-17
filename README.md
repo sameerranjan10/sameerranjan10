@@ -9,7 +9,7 @@ AI Engineer • Full Stack Developer • ML Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+Engineer;Building+Future+Systems;MERN+Stack+Developer;RAG+%7C+LangChain+%7C+GenAI;Cyberpunk+%26+Cars+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+Engineer;Building+Future+Systems;Web+Developer;RAG+%7C+LangChain+%7C+GenAI" />
 </p>
 
 <p align="center">
@@ -30,8 +30,8 @@ class Sameer:
         self.interests = [
             "Artificial Intelligence",
             "Generative AI",
-            "RAG Systems",
-            "Cyberpunk",
+            "Machine Learning",
+            "Games",
             "Cars",
             "Anime"
         ]
@@ -120,13 +120,10 @@ class Sameer:
 <img src="https://raw.githubusercontent.com/sameerranjan10/sameerranjan10/output/snake.svg" />
 </p>
 ---
-
----
-
-## 🌃 Night Drive
+## 🚗 Night Drive
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/fK4kJ0zQZ1AAAAAd/nissan-gtr.gif" width="900"/>
+  <img src="https://i.pinimg.com/originals/87/44/8f/87448f5d0b6a9b4c2fd9d9dbf5f3d0bb.gif" width="900"/>
 </p>
 ---
 
