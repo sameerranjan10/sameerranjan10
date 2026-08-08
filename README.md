@@ -10,7 +10,7 @@
 
 # ⚡ SAMEER RANJAN NAYAK ⚡
 
-### `AI Engineer` &nbsp;- &nbsp; `Full Stack Developer` &nbsp;- &nbsp; `ML Enthusiast`
+### `Full Stack Developer` &nbsp;- &nbsp; `ML Enthusiast`
 
 <br/>
 
