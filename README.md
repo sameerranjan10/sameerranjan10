@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%F0%9F%A4%96;Building+Future+Systems+%E2%9A%A1;RAG+%7C+LangChain+%7C+LangGraph;Full+Stack+Developer+%F0%9F%9A%80;GenAI+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Future+Systems+%E2%9A%A1;RAG+%7C+LangChain+%7C+LangGraph;Full+Stack+Developer+%F0%9F%9A%80;GenAI+Applications" alt="Typing SVG" />
 
 <br/><br/>
 
