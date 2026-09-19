@@ -1,184 +1,192 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/6e/17/73/6e1773b8f3f63d76c8b6b5480bec219d.gif" width="100%" style="border-radius: 12px;" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         HEADER                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<br/>
-
-<!-- NAME & TITLE -->
 <div align="center">
 
-# ⚡ SAMEER RANJAN NAYAK ⚡
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,50:0F172A,100:020617&text=SAMEER%20RANJAN%20NAYAK&font=Space%20Grotesk&fontColor=F8FAFC&fontSize=40&fontAlignY=42&animation=fadeIn"
+  width="100%"
+/>
 
-### `Full Stack Developer` &nbsp;- &nbsp; `ML Enthusiast`
+<br>
 
-<br/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+%7C+Learning+%7C+Improving"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Future+Systems+%E2%9A%A1;RAG+%7C+LangChain+%7C+LangGraph;Full+Stack+Developer+%F0%9F%9A%80;GenAI+Applications" alt="Typing SVG" />
+<br><br>
 
-<br/><br/>
+<a href="https://sameerranjan-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
+</a>
+
+<a href="https://www.linkedin.com/in/sameer-ranjan-nayak-963657328/">
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+</a>
+
+<a href="https://github.com/sameerranjan10">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+<br><br>
+
+<!-- GIF 1 -->
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="380"
+/>
 
 </div>
 
-***
+---
 
-<!-- ABOUT ME -->
-## 🌌 About Me
+## About Me
 
-<img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAd/cyberpunk-edgerunners.gif" width="320" alt="Cyberpunk Edgerunners" />
+<img
+  align="right"
+  src="https://media.tenor.com/qJ5evVs-_uUAAAAd/cyberpunk-edgerunners.gif"
+  width="280"
+/>
 
-```python
-class SameerRanjan:
+I'm a **Computer Science Engineering student at GIET University** with an interest in building modern software and exploring intelligent technologies.
 
-    def __init__(self):
-        self.name     = "Sameer Ranjan Nayak"
-        self.role     = "AI Engineer & Full Stack Developer"
-        self.uni      = "GIET University"
-        self.location = "India 🇮🇳"
+I enjoy working across the stack — from **frontend interfaces and backend APIs to databases, machine learning models, and AI-powered applications**.
 
-        self.interests = [
-            "Generative AI & LLMs",
-            "Advanced RAG Systems",
-            "Multi-Agent Architectures",
-            "Games & Anime",
-            "Supercars & Night Drives 🚗",
-        ]
+### Current Focus
 
-    def current_focus(self):
-        return [
-            "LangGraph Workflows",
-            "Multi-Agent AI Systems",
-            "Production-Grade GenAI Apps",
-        ]
-
-    def philosophy(self) -> str:
-        return "The future is built by those who refuse to quit."
-```
+- Full Stack Development
+- Machine Learning & Data Science
+- Generative AI & LLM Applications
+- RAG & AI Agents
+- Backend Architecture
+- Cloud Deployment
 
 <br clear="right"/>
 
-***
+---
 
-<!-- TECH STACK -->
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c" />
-</p>
-
-**Web Development**
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,html,css,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c" />
 </p>
 
-**AI / ML / GenAI**
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Databases & Backend Services
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,supabase" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-2962FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-8E24AA?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-FF1744?style=for-the-badge&logoColor=white" />
+<img
+  src="https://img.shields.io/badge/Neon-0F172A?style=flat-square&logo=postgresql&logoColor=00E5FF"
+  alt="Neon"
+/>
 </p>
 
-***
+### AI / Machine Learning
 
-<!-- PROJECTS -->
-## 🚀 Featured Projects
-
-| Project | Description | Key Features |
-|---|---|---|
-| **🔹 Back2Roots** | AI-Driven Alumni Management & Recommendation System | AI recommendations · Predictive analytics · Networking |
-| **🔹 GIETNexus** | OCR-Based Smart Academic Search Engine | OCR scanning · Semantic search · Smart indexing |
-| **🔹 MedAssist** | AI-Powered Medical Report Analysis Platform | Report analysis · AI summarization · Smart extraction |
-| **🔹 AgroConnect** | Smart Agriculture Assistance Platform | AI farming · Smart recommendations · Dashboards |
-
-***
-
-<!-- INTERESTS -->
-## 🌃 Interests
-
-```
-🚗  Supercars & Sports Cars       🎮  Games & Anime
-🌌  Synthwave & Night Drives      🤖  Futuristic AI Systems
-⚡  Vibe Coding                   🎧  Coding with Lo-fi Music
-```
-
-***
-
-<!-- CONNECT -->
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://sameerranjan-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/sameer-ranjan-nayak-963657328/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://github.com/sameerranjan10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
-***
-
-<!-- GITHUB ANALYTICS -->
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sameerranjan10&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sameerranjan10&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+<img src="https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/RAG-0F172A?style=flat-square&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/LLMs-0F172A?style=flat-square&logoColor=38BDF8" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sameerranjan10&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=7a5cff&currStreakLabel=00F7FF" />
+### Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,render" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameerranjan10&theme=tokyo-night&bg_color=0d1117&color=00F7FF&line=7a5cff&point=ffffff&hide_border=true" />
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-***
+---
 
-<!-- SNAKE -->
-## 🐍 Contribution Snake
+## Currently Exploring
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sameerranjan10/sameerranjan10/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sameerranjan10/sameerranjan10/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sameerranjan10/sameerranjan10/output/github-snake.svg" />
-  </picture>
-</p>
-
-***
-
-<!-- CAR SECTION -->
-## 🚗 Night Drive Vibes
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNyaTd5Z3o1b3Y5MjhuNjd1dG02NGp3dzM4cHMxODZ1NjAycThrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CEXWPaTHIB9BQYYd30/giphy.gif" width="100%" />
-</p>
-
-***
-
-<!-- FOOTER QUOTE -->
 <div align="center">
 
-### 🌌 *"The future is built by those who refuse to quit."* 🌌
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=900&color=64748B&center=true&vCenter=true&width=650&lines=Advanced+RAG+Architectures;Multi-Agent+AI+Systems;Scalable+Backend+Architecture;Modern+React+Development;Cloud+Deployment"
+/>
 
-<br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
+---
+
+## Interests
+
+<div align="center">
+
+### Technology
+
+`Software Engineering` · `Machine Learning` · `Generative AI`
+
+`Web Development` · `Open Source` · `Developer Tools`
+
+<br>
+
+### Beyond Code
+
+`Automobiles` · `Gaming` · `Anime` · `Music`
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://sameerranjan-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=flat-square&logo=vercel&logoColor=0F172A" />
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/sameer-ranjan-nayak-963657328/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=flat-square&logo=linkedin&logoColor=0F172A" />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/sameerranjan10">
+<img src="https://img.shields.io/badge/GitHub-Follow-38BDF8?style=flat-square&logo=github&logoColor=0F172A" />
+</a>
+
+<br><br>
+
+<sub>Building today. Learning for tomorrow.</sub>
+
+<br><br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020617,50:0F172A,100:020617&section=footer"
+  width="100%"
+/>
 
 </div>
